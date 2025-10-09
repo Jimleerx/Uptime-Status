@@ -62,7 +62,7 @@
 }
 
 * {
-  font-family: haipaiqiangdiaosenxiyuan; /* 字体 */
+  font-family: haipaiqiangdiaosenxiyuan, JetBrains Mono; /* 字体 */
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
